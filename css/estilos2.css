@@ -1,0 +1,172 @@
+.function {
+    font-family: 'Varela Round', sans-serif;
+}
+.pagina{
+    width: 960px; /*aqui deixa a pagina cheia na tela*/
+    margin: 0 auto;/*aqui deixa a tela cheia sem bordas*/
+    height: 0 auto;
+    
+    background-color: rgb(139, 39, 39);
+}
+
+.fundo img{
+width: 960px;
+height: 320px;
+margin-top:0 auto;
+
+    
+
+    
+}
+.cabecalho h2{
+    text-align: center;/*aqui centraliza no meio da pagina o titulo(tatushoppingfrutas)*/
+    font-family: 'Varela Round', sans-serif;
+    margin-top:0px;
+}
+header h1,h2{
+    color: rgb(173, 172, 172); ;/*muda a cor do titulo do site*/
+}
+
+.menu{
+    background-color: rgb(94, 70, 40);/*altera a cor da faixa dos menus(cor de fundo)*/
+    font-family: 'Varela Round', sans-serif;
+    margin-top: -120px;
+}
+nav a{
+    color: rgb(173, 172, 172);/*muda a cor dos menus*/
+}
+.menu ul{
+    display: flex;/*coloca os menus lado a lado*/
+    justify-content: space-around;/*deixa os menus em espaços iguais*/
+    padding-top: 10px;/*deixa os menus centralizados na faixa*/
+    padding-bottom: 10px;/*deixa os menus centralizados na faixa*/
+    list-style: none;
+    padding-left: 0;/*deixa os menus com bordas iguais dentro da faixa*/
+   
+}
+nav a:hover{
+        background-color: rgb(139, 39, 39);
+        border-radius: 6px;
+        color:white;
+ 
+}
+.conteudo{
+    text-align: center;/*alinha os nomes das foto no meio*/
+    font-family: 'Varela Round', sans-serif;
+    display: flex;/*alinha as fotos lado a lado*/
+    justify-content:space-between ;/*da espaçamento entre as fotos*/
+
+}
+.conteudo{
+    margin-top: -30px;
+}
+
+
+
+.conteudo-1{
+    text-align: center;/*alinha os nomes das foto no meio*/
+    font-family: 'Varela Round', sans-serif;
+    display: flex;/*alinha as fotos lado a lado*/
+    justify-content:space-between ;/*da espaçamento entre as fotos*/
+margin-top: 30px;
+}
+.conteudo-1 h3{
+    margin-top: 60px;
+
+}
+
+
+
+.whatsapp img{
+    position:relative;
+   top:-49px;
+    display: flex;
+    width: 30px;
+    margin-left:30px;
+    justify-content:space space-around;
+    }
+    .facebook img{
+        position:relative;
+        top: -79px;
+        margin-top:-30px;
+        display: flex;
+        width: 30px;
+        margin-left:90px;
+        justify-content:space space-around;
+        }
+    .instagram img{
+        position: relative;
+        display: flex;
+        width: 30px;
+        top: -79px;
+    margin-left:150px;
+    justify-content:space-around;
+    } 
+    .youtube img{
+        position: relative;
+        display: flex;
+        width: 30px;
+        top: -107px;
+    margin-left:210px;
+    justify-content:space space-around;
+    } 
+    .banner{
+        width: 300px;
+        height: 200px;
+
+    }
+    .banner1{
+        width: 300px;
+        height: 200px;
+
+    }
+    .banner2{
+ width: 300px;
+        height: 200px;
+ }
+ .banner3{
+    width: 300px;
+    height: 200px;   
+ }
+ .banner4{
+    width: 300px;
+    height: 200px;
+
+ }
+ .banner5{
+    width: 300px;
+    height: 200px;
+
+ }
+
+
+footer{
+    text-align: center;/*faz a faixa do rodapé ficar no centro da pagina*/
+    background:  rgb(94, 70, 40);/*altera a cor da faixa do rodapé*/
+position: relative;
+    margin: 140px;
+margin-left: 0px;
+width: 960px;
+
+}
+footer h5{
+    color: rgb(231, 224, 213);/*altera a cor do nome  que ta dentro da faixa do rodapé*/
+    padding: 20px;/*altera o tamanho do nome que tá dentro da faixa do rodapé*/
+}
+
+footer img{
+    width: 90px;/*altera a largura do logo*/
+    display: block;/*altera a exibição do logo, formato*/
+    margin-top:-140px;/*define a margem do logo no meio da página*/
+    border-radius: 50%;/* define o logo em circulo*/
+    border: 3px solid#725151;/*define a largura da borda em volta do logo, e a cor da linha da borda*/
+    background: rgb(102, 43, 43);/*define a cor da borda*/
+    padding:5px;/*define o preenchimento da borda*/
+    margin-left:5px;
+    
+}
+
+
+
+
+
