@@ -1,4 +1,4 @@
-# Projeto Integrador Site Tatu Shopping Futas Americana -sp
+# Projeto Integrador Site Tatu Shopping Frutas Americana -sp
 * projeto-integrador-site-tatu
 
 TECNOLOGIAS USADAS
